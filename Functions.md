@@ -38,11 +38,22 @@
 2. I fixed the error. I realized I had the wrong path to start the python file.
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_functions/blob/main/github_actions1.png)
 
-3. After I fixed that was I succesful in running the action. 
+3. After I fixed that I was succesful in running the action. 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_functions/blob/main/github_actions3.png)
 
 4. Below is the email that I had send to me with the results of the search.
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_functions/blob/main/github_actions2.png)
 
 ## 3. Explore Functions as a Service (FaaS)
-- 
+- Functions of a service provide the following benefits
+  1. Focus more on code
+  2. Pay for only the resources you use
+  3. They are scaleable
+   - For example if you have website or webapp and you have a needed function that may not be used as much as others. It could be more cost effective to run it using a FaaS
+   - They also reduce the resources you need to manage significantly.
+- limitations to consider are as follows
+  1. I guess can be a Pro and Con is the lack of managed resources
+  2. inability to maintain data after these functions run
+  3. Overall general lag if functions arent used often.
+
+     
