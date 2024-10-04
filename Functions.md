@@ -21,3 +21,8 @@
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_functions/blob/main/GCP_Function3.png)
 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_functions/blob/main/GCP_Function4.png)
+
+
+## 2. Create a Cron Job
+
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_functions/blob/main/GCP_Function4.png)
